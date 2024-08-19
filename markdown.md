@@ -5,9 +5,9 @@
 Im not too sure what this has to do with markdown yet
 ---
 
-*These are some bullet points
-*And another one
-*One more
+* These are some bullet points
+* And another one
+* One more
 
 1. These are numbers
 1. I can use the same number and they will automatically count
@@ -22,6 +22,6 @@ git commit -a
 git push
 ```
 
-I'll give you a link [here] if you want (https://raw.githubusercontent.com/chryswoods/siremol.org/master/chryswoods.com/introducing_git/markdown.Rmd)
+I'll give you a link [here](https://raw.githubusercontent.com/chryswoods/siremol.org/master/chryswoods.com/introducing_git/markdown.Rmd) if you want
 
 And hope that it works!
